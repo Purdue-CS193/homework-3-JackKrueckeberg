@@ -2,7 +2,9 @@ Part 1: Write your message here from GitHub
 Bye jack.
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+git fetch gets the changes from the remote repository.
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+Github is a storage place and collaborative work environment, Git is a tool
+Github uses to transfer code and files to and from the local and remote
+repositories.
